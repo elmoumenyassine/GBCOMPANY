@@ -3,6 +3,7 @@ RewriteCond %{HTTP_HOST} ^gbcompany\.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.gbcompany\.org$
 RewriteRule ^youtube$ "https\:\/\/www\.youtube\.com\/channel\/UCGP0uQ1qaLyn4BMnTvVV4ig\/featured" [R=301,L]
 
+
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
 RewriteRule ^(.*)$ https://www.gbcompany.org/$1 [R,L]
