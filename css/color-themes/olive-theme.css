@@ -1,0 +1,178 @@
+
+
+/*Theme Color File*/
+.top-right-content .top-social-box ul li a:hover i,
+.main-menu .navigation > li > ul > li:hover > a,
+.call-toaction-area ul li:hover .right-content .read-more-button a span:before,
+.single-footer-widget .usefull-links li a:hover,
+.single-footer-widget .recent-post li a:hover,
+.footer-social-links ul li a:hover i,
+.our-history .nav-link li#slider-prev a i,
+.our-history .nav-link li#slider-next a i,
+.single-team-member .text-holder .social-links li a:hover i,
+.c100 > span::before,
+.faq-content-area .tab-menu li .nav-link.active, 
+.faq-content-area .tab-menu li:hover .nav-link,
+.accordion-holder.style-one .accordion .acc-btn.active h3,
+.accordion-holder.style-one .accordion .acc-btn.active .toggle-icon span:before,
+.sidebar-box .single-sidebar .service-brochures .brochures-dwn-link li a:hover .title-holder h5,
+.sidebar-testimonial .single-item .client-info .title-holder span,
+.single-sidebar .categories li a:hover,
+.single-sidebar .popular-post li .title-holder a:hover .post-title,
+.single-sidebar .popular-post li .title-holder .post-date i,
+.add-comment-box .add-rating-box ul li a:hover i,
+.contact-info-box-one .bottom-info .text-holder a span:before,
+.single-project .top-overlay .title .box h3 a:hover,
+
+
+a,
+.thm-clr,
+.main-menu .navigation > li:hover > a, 
+.main-menu .navigation > li.current > a,
+.single-blog-post .text-holder .meta-box .meta-info li a i,
+.single-blog-post .text-holder .blog-title:hover a,
+.blog-single-area .inner-comment-box .single-comment-box .text-holder .top .review-box ul li i,
+.accordion-box .accordion .accord-btn.active h4,
+.accordion-box .accordion .accord-btn.active:after,
+.single-product-item .title-holder .review-box ul li i,
+.single-shop-content .content-box .review-box ul li i,
+.single-shop-content .content-box .location-box form span,
+.product-tab-box .tab-btns .tab-btn.active-btn span, 
+.product-tab-box .tab-btns .tab-btn:hover span,
+.product-tab-box .tabs-content .review-box .single-review-box .text-holder .top .review-box ul li i,
+.product-tab-box .review-form .add-rating-box ul li:hover a i,
+.sidebar-wrapper .single-sidebar .latest-product li .title-holder .review-box li i,
+.cart-area .cart-table tbody tr .sub-total,
+.cart-total-table li span.col b,
+.checkout-area .exisitng-customer h5 a,
+.checkout-area .coupon h5 a,
+.checkout-area .table .cart-table tbody tr td.price,
+.cart-total .payment-options .option-block .checkbox label span b,
+.login-register-area .form a.forgot-password,
+.contact-info-box-one .owl-theme .owl-nav .owl-prev,
+.contact-info-box-one .owl-theme .owl-nav .owl-next{
+	color: #3d9970;
+}
+
+
+
+
+
+/*Background Color*/
+.footer-top-area,
+.main-menu .navigation li:before,
+.main-menu .navigation li a::before,
+.main-menu .navigation li a::after,
+.latest-project-area .sec-title:before,
+.single-choosing-item:hover .text-holder a.readmore,
+.testimonial-area .owl-dots .owl-dot.active, 
+.single-footer-widget .usefull-links li a:before,
+.our-history .nav-link li#slider-prev a:hover i,
+.our-history .nav-link li#slider-next a:hover i,
+.core-value-area .sec-title:before,
+.certificate-area .owl-dots .owl-dot.active,
+.solutions-content-box .owl-dots .owl-dot.active,
+.accordion-box .accordion .accord-content:before,
+.faq-content-area .tab-menu li .nav-link.active:before, 
+.faq-content-area .tab-menu li:hover .nav-link:before,
+.profit-improvement-box .text-holder ul li .iocn-box,
+.accordion-holder.style-one .accordion .acc-content .inner:before,
+.sidebar-box .single-sidebar .service-list-box .page-links li a:hover:before, 
+.sidebar-box .single-sidebar .service-list-box .page-links li a.active:before,
+.sidebar-testimonial-box .owl-dots .owl-dot.active,
+.single-sidebar .categories li a:hover::before,
+.single-sidebar .categories li:hover:before,
+
+
+.thm-bg-clr,
+.search-box,
+.tparrows:hover,
+.post-pagination li.active a, 
+.post-pagination li:hover a,
+.single-sidebar .price-ranger .ui-slider-handle,
+.sidebar-wrapper .single-sidebar .product-tag li a:hover,
+.checkout-area .exisitng-customer:before,
+.checkout-area .coupon:before{
+	background-color: #3d9970;
+}
+
+
+
+
+
+/*Border Color*/
+.main-menu .navigation > li > ul,
+.main-menu .navigation > li > ul > li:hover > a,
+.latest-project-area .owl-dots .owl-dot.active, 
+.single-choosing-item:hover,
+.testimonial-area .owl-dots .owl-dot.active, 
+.certificate-area .owl-dots .owl-dot.active,
+.solutions-content-box .owl-dots .owl-dot.active,
+.faq-content-area .tab-menu li .nav-link.active, 
+.faq-content-area .tab-menu li:hover .nav-link,
+.accordion-holder.style-one .accordion .acc-btn.active h3,
+.sidebar-testimonial-box .owl-dots .owl-dot.active,
+.contact-info-box-one .owl-dots .owl-dot.active,
+
+
+.tparrows:hover,
+.accordion-box .accordion .accord-btn.active:after,
+.post-pagination li.active a, 
+.post-pagination li:hover a,
+.single-sidebar .price-ranger .ui-slider-handle,
+.sidebar-wrapper .single-sidebar .product-tag li a:hover{
+	border-color: #3d9970;
+}
+
+
+
+
+
+/* Rgba Background color **/
+.overlay-style-one,
+.parallax-bg-one::before,
+.footer-top-area .single-box,
+.breadcrumb-area::before{
+    background: rgba(61, 153, 112, 0.90);
+}
+
+
+
+
+
+@media only screen and (max-width: 991px){
+/* Background Color */    
+.main-menu .navbar-collapse > .navigation > li > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > a{
+    background-color: #3d9970;
+}
+ 
+    
+.main-menu .navbar-collapse > .navigation > li > a:hover,
+.main-menu .navbar-collapse > .navigation > li > a:active,
+.main-menu .navbar-collapse > .navigation > li > a:focus,
+.main-menu .navbar-collapse > .navigation > li.current > a,
+.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
+    background: #0f1341;    
+}    
+  
+    
+/* Border Color */        
+.main-menu .navbar-collapse > .navigation > li,
+.main-menu .navbar-collapse > .navigation > li > ul > li,    
+.main-menu .navbar-collapse > .navigation > li:last-child,
+.main-menu .navbar-collapse > .navigation > li > ul > li:last-child{
+    border-color: #267653;        
+}    
+
+    
+}
+
+
+
+
+
+/* Box Shadow */  
+.footer-top-area{
+    box-shadow:inset 0px 3px 9px #297d57;
+}
